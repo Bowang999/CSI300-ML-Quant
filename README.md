@@ -49,10 +49,6 @@ Six strategies are evaluated on a monthly rebalancing frequency against the CSI 
 
 ![Yearly Alpha](Figure/4_yearly_alpha_comparison.png)
 
-### IC / ICIR Heatmap
-
-![IC ICIR Heatmap](Figure/model_ic_icir_heatmap.png)
-
 ---
 
 ## Repository Structure
