@@ -1,14 +1,21 @@
-# Proprietary commercial data (CSMAR / Wind) — do not distribute
+# Source code (not published at this stage)
+codes/
+
+# Proprietary commercial data (CSMAR / Wind)
 RAW_DATA/
 
-# Intermediate parquet files derived from proprietary data (also too large for GitHub)
+# Intermediate parquet files
 PARQUET_DATA/
 
-# Copyrighted textbooks
-Textbook/
+# Experimental / intermediate model runs
+weights_diagnostic/old/
 
-# Paper under journal review
-Overleaf Projects (1 items).zip
+# Copyrighted materials
+Textbook/
+literature/
+
+# Compressed archives
+*.zip
 
 # OS / IDE artifacts
 .DS_Store
